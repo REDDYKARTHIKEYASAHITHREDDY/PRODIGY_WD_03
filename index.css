@@ -1,0 +1,18 @@
+
+body, html, #root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #FF6B6B, #FFD93D); /* Gradient background */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+}
